@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link](hardcore-dijkstra-72dde9)
+* Link to the website deployed on Netlify : [Link](https://netliflydiscovery.netlify.com/)
